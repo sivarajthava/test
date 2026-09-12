@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 140D-7C3E
+
+ Directory of C:\Users\HP\workspace\test
+
+09/12/2026  09:33 AM    <DIR>          .
+09/12/2026  08:59 AM    <DIR>          ..
+09/12/2026  09:33 AM                 0 out.txt
+09/12/2026  08:59 AM                 6 README.md
+09/12/2026  09:31 AM                39 touch.json
+               3 File(s)             45 bytes
+               2 Dir(s)  184,498,577,408 bytes free
